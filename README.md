@@ -1,4 +1,5 @@
 # Portfolio Theme Bootstrap 5
+![Capture d'écran 2023-12-26 120745](https://github.com/ThomasPtht/Portfolio-Theme-Bootstrap/assets/128037230/c6223491-3a79-4d47-83ec-350d42565825)
 
 Au cours de ce projet, j'ai acquis et mis en œuvre diverses compétences liées à Bootstrap 5 pour créer un portfolio. Voici un aperçu des éléments clés que j'ai intégrés :
 
