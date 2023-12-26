@@ -1,50 +1,19 @@
-# Cours Bootstrap 5
+\*\*Portfolio Theme Bootstrap 5
 
-Bienvenue dans le Github du projet fil rouge "Portfolio" associé au [cours OpenClassrooms sur Bootstrap 5](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4).
+Au cours de ce projet, j'ai acquis et mis en œuvre diverses compétences liées à Bootstrap 5 pour créer un portfolio. Voici un aperçu des éléments clés que j'ai intégrés :
 
-![The San Juan Mountains are beautiful!](/docs/img/final.jpg "Screenshot du projet fil rouge \"Portfolio\"")
+Mise en Page Responsive : J'ai rendu le portfolio accessible sur divers appareils en utilisant les fonctionnalités responsives de Bootstrap 5. Cela garantit une expérience utilisateur optimale sur mobile, tablette et ordinateur.
 
-## Sommaire
+Personnalisation Avancée : J'ai exploité les capacités de personnalisation de Bootstrap 5 pour adapter le design du portfolio à mes préférences. Cela inclut la modification des couleurs, des polices et d'autres éléments visuels.
 
-- Partie 1
-  - Chapitre 1 : Tirez un maximum de ce cours
-  - Chapitre 2 : Découvrez l’importance du mobile dans les pratiques des internautes
-  - Chapitre 3 : Découvrez si Bootstrap correspond à vos besoins
-  - Quizz : Identifier les cas d'usage de Bootstrap
-- Partie 2
-  - Chapitre 1 : Décomposez la structure des pages
-  - Chapitre 2 : Implémentez votre structure de pages
-  - Chapitre 3 : Rendez votre mise en page responsive
-  - Quizz : Créer des mises en page responsives
-- Partie 3
-  - Chapitre 1 : Personnalisez votre page
-  - Chapitre 2 : Créez de la navigation responsive
-  - Chapitre 3 : Ajoutez le composant progress bar
-  - Chapitre 4 : Structurez du contenu grâce au composant card
-  - Quizz : Afficher du contenu avec les composants d'interface utilisateur
-- Partie 4
-  - Chapitre 1 : Ajoutez des composants interactifs
-  - Chapitre 2 : Permettez à vos visiteurs de vous contacter grâce aux formulaires
-  - Chapitre 3 : Améliorez l’expérience utilisateur avec une modal et les tooltips
-  - Quizz : Ajouter de l'interactivité à votre site
-- Partie 5
-  - Chapitre 1 : Créez votre propre thème de conception
-  - Chapitre 2 : Créez vos propres classes utilitaires grâce à l’API de Bootstrap 5
-  - Quizz : Créer des fonctionnalités et des thèmes personnalisés
+Composants d'Interface : J'ai intégré des composants d'interface utilisateur tels que des barres de progression et des cartes Bootstrap pour structurer et présenter mon contenu de manière attrayante.
 
-> ### Félicitations 🎉 ! Vous avez terminé le cours Bootstrap 5
+Interactivité : Pour améliorer l'interaction avec les visiteurs, j'ai ajouté des composants interactifs, y compris des modales et des tooltips, conformément aux principes de convivialité.
 
-## Solutions des exercices
+Formulaire de Contact : J'ai inclus un formulaire de contact fonctionnel pour permettre aux visiteurs d'établir un contact directement à partir du portfolio. Cela implique l'utilisation des fonctionnalités de formulaire de Bootstrap 5.
 
-Toutes les étapes (par chapitre) du projet fil rouge sont accessibles via ce lien : [solutions](https://openclassrooms-student-center.github.io/cours-Bootstrap-5/)
+Thème de Conception Personnalisé : Pour donner une identité visuelle unique au portfolio, j'ai créé mon propre thème de conception en utilisant les outils de personnalisation de Bootstrap 5.
 
-## Contributing
+Classes Utilitaires : J'ai exploité l'API de Bootstrap 5 pour créer des classes utilitaires personnalisées, ce qui m'a permis d'optimiser le style de manière efficace.
 
-- Benoît Philibert
-- Max Mahmoud Wardeh
-- [Luca Bousquet](https://www.linkedin.com/in/lucabousquet/)
-
-
-## License
-
-Propriétaire : [OpenClassrooms](https://openclassrooms.com/fr/)
+Ce portfolio est le fruit de l'application pratique des concepts et des compétences acquises au fil du cours Bootstrap 5. Il reflète ma compréhension approfondie de la création de sites web modernes et professionnels en utilisant cette puissante bibliothèque front-end.
